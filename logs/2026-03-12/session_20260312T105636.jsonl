@@ -1,0 +1,1 @@
+{"ts": "2026-03-12T10:56:41.335347+00:00", "req_id": "req_ae843d", "tool": "shell_exec", "dest": "pc", "status": "ok", "duration_ms": 4753, "args": {"command": "docker stop mcp-sequential-thinking", "tier": "auto"}, "summary": "{'stdout': 'mcp-sequential-thinking\\n', 'stderr': '', 'returncode': 0}", "error": null}

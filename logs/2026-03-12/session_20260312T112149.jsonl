@@ -1,0 +1,1 @@
+{"ts": "2026-03-12T11:21:53.639988+00:00", "req_id": "req_db25b4", "tool": "shell_exec", "dest": "pc", "status": "ok", "duration_ms": 4625, "args": {"command": "docker stop portainer", "tier": "auto"}, "summary": "{'stdout': 'portainer\\n', 'stderr': '', 'returncode': 0}", "error": null}

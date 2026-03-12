@@ -1,0 +1,1 @@
+{"ts": "2026-03-12T11:53:49.986727+00:00", "req_id": "req_25dc9f", "tool": "shell_exec", "dest": "pc", "status": "ok", "duration_ms": 6686, "args": {"tier": "auto"}, "summary": "{'stdout': 'ftpuser250/agents\\n', 'stderr': '', 'returncode': 0}", "error": null}

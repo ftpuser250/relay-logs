@@ -1,0 +1,1 @@
+{"ts": "2026-03-12T11:35:03.535022+00:00", "req_id": "req_beaa7f", "tool": "shell_exec", "dest": "pc", "status": "ok", "duration_ms": 6513, "args": {"command": "docker rm -f mcp-kubernetes", "tier": "auto"}, "summary": "{'stdout': 'mcp-kubernetes\\n', 'stderr': '', 'returncode': 0}", "error": null}

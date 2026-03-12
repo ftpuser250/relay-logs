@@ -1,0 +1,1 @@
+{"ts": "2026-03-12T11:21:05.036274+00:00", "req_id": "req_d0c963", "tool": "shell_exec", "dest": "pc", "status": "ok", "duration_ms": 5591, "args": {"command": "docker stop mcp-whois", "tier": "auto"}, "summary": "{'stdout': 'mcp-whois\\n', 'stderr': '', 'returncode': 0}", "error": null}
