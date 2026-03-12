@@ -1,0 +1,1 @@
+{"ts": "2026-03-12T00:20:40.786988+00:00", "req_id": "req_c00b5f", "tool": "shell_exec", "dest": "pc", "status": "ok", "duration_ms": 9608, "args": {"command": "docker ps --format \"{{.Names}}\" | grep -v -E \"^pentest-tgbot$|^dozzle$\" | xargs -r docker stop", "timeout": 60, "tier": "auto"}, "summary": "{'stdout': '', 'stderr': '', 'returncode': 0}", "error": null}

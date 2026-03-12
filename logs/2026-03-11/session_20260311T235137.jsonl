@@ -1,0 +1,1 @@
+{"ts": "2026-03-11T23:51:46.477436+00:00", "req_id": "req_e25b48", "tool": "ping", "dest": "pc", "status": "ok", "duration_ms": 9250, "args": {}, "summary": "{'message': 'pong', 'server': 'pc', 'version': '1.3', 'ts': '2026-03-11T23:51:41.949505+00:00'}", "error": null}

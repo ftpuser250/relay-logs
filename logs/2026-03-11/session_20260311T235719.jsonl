@@ -1,0 +1,1 @@
+{"ts": "2026-03-11T23:57:56.173637+00:00", "req_id": "req_c343dd", "tool": "shell_exec", "dest": "pc", "status": "timeout", "duration_ms": 36205, "args": {"timeout": 120, "tier": "auto"}, "summary": null, "error": null}

@@ -1,0 +1,1 @@
+{"ts": "2026-03-12T00:20:37.656542+00:00", "req_id": "req_a9775e", "tool": "shell_exec", "dest": "pc", "status": "ok", "duration_ms": 9089, "args": {"command": "docker ps --format \"{{.Names}}|{{.Status}}\"", "tier": "auto"}, "summary": "{'stdout': 'pentest-tgbot|Up 51 minutes\\n', 'stderr': '', 'returncode': 0}", "error": null}
